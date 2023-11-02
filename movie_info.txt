@@ -1,0 +1,14 @@
+*****************************************
+Name of the Movie: dangal
+Total no of general seat available: 30
+Total no of VIP seat available: 20
+cost of general seat: 400
+cost of VIP seat: 650
+*****************************************
+*****************************************
+Name of the Movie: shershaah
+Total no of general seat available: 35
+Total no of VIP seat available: 60
+cost of general seat: 450
+cost of VIP seat: 600
+*****************************************
